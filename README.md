@@ -1,7 +1,6 @@
 # FINDING THE DRIVERS OF DISCARDS AND SUITABLE FISHING AREAS: A SPATIO-TEMPORAL MODELLING APPROACH
 
-Tuan-Anh Bui | 01808994
-
+Tuan-Anh Bui | 01808994\
 Promotor: Prof. Dr. Marleen De Troch (UGent) (marleen.detroch@ugent.be)
 
 Supervisor: Dr. Jochen Depestele (ILVO) (jochen.depestele@ilvo.vlaanderen.be)
