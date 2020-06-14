@@ -3,5 +3,5 @@ Master thesis submitted to Ghent University for the partial fulfillment of the r
 Academic year: 2019-2020. 
 No data can be taken out of this work without prior approval of the thesis promoter.
 
-# THESIS TITLE
-FINDING THE DRIVERS OF DISCARDS AND SUITABLE FISHING AREAS: A SPATIO-TEMPORAL MODELLING APPROACH
+# THESIS TITLE: FINDING THE DRIVERS OF DISCARDS AND SUITABLE FISHING AREAS: A SPATIO-TEMPORAL MODELLING APPROACH
+
