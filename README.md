@@ -25,12 +25,12 @@ No data can be taken out of this work without prior approval of the thesis promo
 
 |     File name                                    |     Description                                                                        |     Type      |     Folder    |
 |--------------------------------------------------|----------------------------------------------------------------------------------------|---------------|---------------|
-|     Thesis_data processing                       |     1st step of data processing: data cleaning                                         |     R Code    |     Script    |
-|     Thesis_data processing_landing limitation    |     2nd step of data processing: landing limitation data processing                    |     R Code    |     Script    |
-|     Thesis_data processing_env                   |     3rd step of data processing: environmental data processing                         |     R Code    |     Script    |
-|     Thesis_data exploration_final                |     Data exploration                                                                   |     R Code    |     Script    |
-|     Thesis_data analysis_DR_"FAO code"_new       |     Spatio-temporal analysis of studied taxa. Each file name is   coded by FAO code    |     R Code    |     Script    |
-|     Thesis_data analysis_summary discard         |     Summary of discard data for the thesis text                                        |     R Code    |     Script    |
+|     Thesis_data processing                       |     1st step of data processing: data cleaning                                         |     Code    |     Script    |
+|     Thesis_data processing_landing limitation    |     2nd step of data processing: landing limitation data processing                    |     Code    |     Script    |
+|     Thesis_data processing_env                   |     3rd step of data processing: environmental data processing                         |     Code    |     Script    |
+|     Thesis_data exploration_final                |     Data exploration                                                                   |     Code    |     Script    |
+|     Thesis_data analysis_DR_"FAO code"_new       |     Spatio-temporal analysis of studied taxa. Each file name is   coded by FAO code    |     Code    |     Script    |
+|     Thesis_data analysis_summary discard         |     Summary of discard data for the thesis text                                        |     Code    |     Script    |
 
 
 
