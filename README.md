@@ -4,7 +4,7 @@ Master thesis submitted to Ghent University for the partial fulfillment of the r
 
 Academic year: 2019-2020.  
 
-No data can be taken out of this work without prior approval of the thesis promoter.
+No data can be taken out of this work without prior approval of the thesis promotor/supervisor.
 
 <strong>DESCRIPTION OF PROCESSED DATA </strong> 
 
