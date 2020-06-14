@@ -71,6 +71,8 @@ coast <- readOGR(paste0(dir_data_shp,"/","coast_final.shp"))
 
 # 2.1.1 Discard sampling program ------------------------------------------
 
+# Sampling mapping ------------------------------------------
+
 bbox(coast) #Retrieve spatial bounding box from sp data
 # Set xlim ylim
 xlim = c(bbox(coast)[1,]); ylim = c(bbox(coast)[2,])
@@ -150,9 +152,7 @@ ggsave(path = paste0(dir_figure,"/"),
        dpi = 300
 )
 
-##################################################
-
-# 2.1.1 Discard sampling program ------------------------------------------
+# Sampling summary ------------------------------------------
 
 # Summary sampling effort (haul)
 # Haul by IcesDivision
