@@ -1,10 +1,20 @@
 # FINDING THE DRIVERS OF DISCARDS AND SUITABLE FISHING AREAS: A SPATIO-TEMPORAL MODELLING APPROACH
 
+Tuan-Anh Bui | 01808994
+
+Promotor: Prof. Dr. Marleen De Troch (UGent) (marleen.detroch@ugent.be)
+
+Supervisor: Dr. Jochen Depestele (ILVO) (jochen.depestele@ilvo.vlaanderen.be)
+
+Contact email: tuananh.bui@imbrsea.eu
+
 Master thesis submitted to Ghent University for the partial fulfillment of the requirements for the degree of Master of Science in Marine Biological Resources (IMBRSea) - www.imbrsea.eu 
 
 Academic year: 2019-2020.  
 
 No data can be taken out of this work without prior approval of the thesis promotor/supervisor.
+
+
 
 <strong>DESCRIPTION OF PROCESSED DATA </strong> 
 
